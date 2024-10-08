@@ -3,5 +3,5 @@
 
 *  Selecting data
 *  Filtering records
-*  Aggregrate functions
+*  Aggregrate Functions
 *  Sorting and Grouping
